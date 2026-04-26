@@ -18,5 +18,5 @@ JavaScript | TypeScript | React | Next.js | Node.js
 [LinkedIn](https://www.linkedin.com/in/oksana-moskovko/) | [Telegram](https://t.me/+380505044575) | [Email](mailto:omoskovko98@gmail.com)
 
 ## ⚡ GitHub Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiOksana-Moskovkoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oksana-Moskovko)](https://github.com/anuraghazra/github-readme-stats)
 
